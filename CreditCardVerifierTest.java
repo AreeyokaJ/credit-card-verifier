@@ -5,7 +5,7 @@ class CreditCardVerifierTest{
  
        try{
         /*create creditCardVerifierObject, this object will ask user for credit card number 
-        and go through credit card verification project */ 
+        and go through credit card verification process */ 
         CreditCardVerifier creditCardVerifier = new CreditCardVerifier(); 
        }
 
